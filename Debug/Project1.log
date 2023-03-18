@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Code\Лабораторные\ОПД\Project1\Source.cpp(35,46): warning C4244: аргумент: преобразование "std::streamsize" в "size_t", возможна потеря данных
+C:\Code\Лабораторные\ОПД\Project1\Source.cpp(72,43): warning C4244: аргумент: преобразование "std::streamsize" в "size_t", возможна потеря данных
+  Project1.vcxproj -> C:\Code\Лабораторные\ОПД\Project1\Debug\Project1.exe
